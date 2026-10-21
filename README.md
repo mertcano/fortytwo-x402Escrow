@@ -2,7 +2,7 @@
 
 [![Website fortytwo.network](https://img.shields.io/website-up-down-green-red/https/fortytwo.network.svg)](https://fortytwo.network)
 [![Discord](https://img.shields.io/badge/discord-join-7289da)](https://discord.gg/fortytwo)
-[![X Fortytwo](https://img.shields.io/twitter/follow/fortytwonetwork?style=social)](https://x.com/fortytwonetwork)
+[![X Fortytwo](https://img.shields.io/twitter/follow/fortytwonetwork?style=social)](https://x.com/fortytwo)
 
 ## Overview
 
